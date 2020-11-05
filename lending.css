@@ -35,7 +35,7 @@ ul li.active a{
 }
 .logo img{
 	float: left;
-	width: 100px;
+	width: 90px;
 	height: auto;
 }
 .main{
@@ -83,4 +83,15 @@ ul li.active a{
 .btn2:hover{
 	background: #fff;
 	color: #000;
+}
+.h1{
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.h2{
+	text-align: top;
+	color: #20B2AA;
+	font-family: italy;
+
 }
